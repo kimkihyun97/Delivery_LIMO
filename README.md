@@ -11,5 +11,6 @@
 - using voxel grid filters to downgrade point clouds only in costmap2D
 
 ## Results
-![Screenshot from 2023-06-14 19-51-48](https://github.com/kimkihyun97/Delivery_LIMO/assets/122510616/db64d600-253c-4a90-9ceb-aa7edc4e6fb9)
+![Screenshot from 2023-06-13 13-17-40](https://github.com/kimkihyun97/Delivery_LIMO/assets/122510616/131e9772-73bd-4d36-8c88-7320a0e6cced)
+
 
