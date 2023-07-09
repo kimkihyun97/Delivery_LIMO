@@ -13,4 +13,6 @@
 ## Results
 ![Screenshot from 2023-06-13 13-17-40](https://github.com/kimkihyun97/Delivery_LIMO/assets/122510616/131e9772-73bd-4d36-8c88-7320a0e6cced)
 
-
+- Send goal pose using delivery_gui.py
+- Using filtered point clouds for avoiding obstacles
+  
