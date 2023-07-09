@@ -1,4 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-    <node name="delivery_gui" pkg="delivery_app" type="delivery_gui.py" output="screen"/>
-</launch>
