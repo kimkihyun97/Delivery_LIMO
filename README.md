@@ -16,3 +16,4 @@
 - Send goal pose using delivery_gui.py
 - Using filtered point clouds for avoiding obstacles
   
+[![Video Label](http://img.youtube.com/vi/pU-moyL22ik/0.jpg)](https://youtu.be/pU-moyL22ik?t=0s)
